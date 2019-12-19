@@ -1,0 +1,32 @@
+p {
+  color: blue;
+}
+
+.active {
+  font-weight: 600;
+}
+
+footer {
+  background-color: #4ec295;
+  position: fixed; 
+  left: 0; 
+  bottom: 0; 
+  width: 100%; 
+  padding: 20px 0 20px; 
+ 
+}
+
+.container-fluid
+{
+  background-color: lightgray; 
+}
+
+#navbarNav
+{
+  background-color: #4ec295; 
+  position: fixed; 
+  left: px;
+  top: 0;
+  padding: 0 0 15px;  
+  /*margin-right: 50px;*/
+}

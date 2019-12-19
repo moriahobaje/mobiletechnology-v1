@@ -1,0 +1,13 @@
+div {
+  color: black;
+}
+body
+{
+  height: 100%;
+}
+
+.details
+{
+  position: fixed;
+  bottom: 100px; 
+}
